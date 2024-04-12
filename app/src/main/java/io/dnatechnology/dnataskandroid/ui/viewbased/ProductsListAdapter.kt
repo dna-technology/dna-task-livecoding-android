@@ -1,4 +1,4 @@
-package io.dnatechnology.dnataskandroid.ui
+package io.dnatechnology.dnataskandroid.ui.viewbased
 
 import android.view.LayoutInflater
 import android.view.View

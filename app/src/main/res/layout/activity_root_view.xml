@@ -9,7 +9,7 @@
     android:fitsSystemWindows="true"
     android:layout_gravity="bottom"
     android:orientation="vertical"
-    tools:context=".ui.RootViewActivity">
+    tools:context=".ui.viewbased.RootViewActivity">
 
         <androidx.recyclerview.widget.RecyclerView
             android:id="@+id/recycler_view"
